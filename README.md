@@ -1,2 +1,2 @@
-# Boolzapp
-Copy of a famous chat
+# BoolFlix
+Copy of a famous Movies & Series platform
