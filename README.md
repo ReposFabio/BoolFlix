@@ -1,2 +1,2 @@
 # Boolzapp
-A copy of a famous chat
+Copy of a famous chat
